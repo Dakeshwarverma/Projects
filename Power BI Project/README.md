@@ -122,12 +122,11 @@ By integrating data cleaning, SQL-based analysis, and interactive visualization,
 
 ![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/Ola%20Ride%20Cancellation%20Project_Snapshot.png)
 
+![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_DriverRating_analysis_Snapshot.png)
 
-https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_DriverRating_analysis_Snapshot.png
+![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_Revenue_analysis_Snapshot.png)
 
-https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_Revenue_analysis_Snapshot.png
+![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_VehicleCancellation_analysis_Snapshot.png)
 
-https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_VehicleCancellation_analysis_Snapshot.png
-
-https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_vehicle_type_analysis_Snapshot.png
+![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_vehicle_type_analysis_Snapshot.png)
 
