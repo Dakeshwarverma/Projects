@@ -118,7 +118,10 @@ By integrating data cleaning, SQL-based analysis, and interactive visualization,
 
 • Screenshots / Demo
 
-https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/Ola%20Ride%20Cancellation%20Project_Snapshot.png
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/Ola%20Ride%20Cancellation%20Project_Snapshot.png)
+
 
 https://github.com/Dakeshwarverma/Projects/blob/main/Power%20BI%20Project/ola_DriverRating_analysis_Snapshot.png
 
